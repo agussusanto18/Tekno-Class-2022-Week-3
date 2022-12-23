@@ -8,6 +8,7 @@ NIM: -
 1. Dilarang mengubah default template dari code atau file
 2. Dilarang mengubah dataset yang ada didalam dataset.py
 3. Gunakan print() untuk menampilkan hasil
+4. Sertakan nama dan NIM kamu diatas
 
 
 ## Assignment 1
