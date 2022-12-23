@@ -1,8 +1,8 @@
 # Tekno Class 2022 - Week 3
 Tekno class 2022 Assignment
 
-NAMA: -
-NIM: -
+* NAMA: -
+* NIM: -
 
 ## Catatan
 1. Dilarang mengubah default template dari code atau file
