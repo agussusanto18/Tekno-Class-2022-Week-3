@@ -14,7 +14,9 @@ Kamu diminta Untuk mencari file dengan nama tertentu (exact) kemudian kembalikan
 file5.txt
 
 ### Sample Output
+```
 [17, 16]
+```
 
 
 ## Assignment 2
@@ -24,7 +26,9 @@ Disini kamu diminta untuk mencari folder dengan ID tertentu sesuai input, kemudi
 3
 
 ### Sample Output
+```
 [6, 17]
+```
 
 
 ## Assignment 3
@@ -34,7 +38,9 @@ Disini kamu diminta untuk mencari entitas (File/folder) yang mengandung string n
 profile
 
 ### Sample Output
+```
 [14, 15]
+```
 
 
 ## Assignment 4
@@ -44,4 +50,6 @@ Disini kamu diminta untuk membuat file baru dan memasukannya kedalam folder deng
 profile
 
 ### Sample Output
+```
 [14, 15]
+```
