@@ -10,6 +10,8 @@ Tekno class 2022 Assignment
 3. Gunakan print() untuk menampilkan hasil
 4. Sertakan nama dan NIM kamu diatas
 
+## Assignment - Studi Kasus File Manager
+Disini kamu akan menyelesaikan permasalahan menggunakan struktur data di python dengan konsep studi kasus file manager. Kamu akan coba untuk mengakses, membuat, dan menampilkan data-data file dan folder dalam bentuk objek collection.
 
 ## Assignment 1
 Kamu diminta Untuk mencari file dengan nama tertentu (exact) kemudian kembalikan ID nya. Catatan bahwa kemungkinan file dengan nama tersebut ada lebih dari satu, maka kembaliannya adalah list ID file tersebut.
