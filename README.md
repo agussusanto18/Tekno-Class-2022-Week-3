@@ -11,7 +11,9 @@ Tekno class 2022 Assignment
 Kamu diminta Untuk mencari file dengan nama tertentu (exact) kemudian kembalikan ID nya. Catatan bahwa kemungkinan file dengan nama tersebut ada lebih dari satu, maka kembaliannya adalah list ID file tersebut.
 
 ### Sample Input
+```
 file5.txt
+```
 
 ### Sample Output
 ```
@@ -23,7 +25,9 @@ file5.txt
 Disini kamu diminta untuk mencari folder dengan ID tertentu sesuai input, kemudian kembalikan ID dari children yang ada di folder tersebut, ingat bahwa kembalian berupa List
 
 ### Sample Input
+```
 3
+```
 
 ### Sample Output
 ```
@@ -35,7 +39,9 @@ Disini kamu diminta untuk mencari folder dengan ID tertentu sesuai input, kemudi
 Disini kamu diminta untuk mencari entitas (File/folder) yang mengandung string nama tertentu (include), kemudian kembalikan ID dari setiap item yang ditemukan, ingat bahwa kembalian berupa list ID dari item tersebut.
 
 ### Sample Input
+```
 profile
+```
 
 ### Sample Output
 ```
@@ -48,7 +54,7 @@ Disini kamu diminta untuk membuat file baru dan memasukannya kedalam folder deng
 
 ### Sample Input
 ```
-'profile'
+profile
 ```
 
 ### Sample Output
